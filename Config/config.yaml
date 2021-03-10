@@ -1,0 +1,7 @@
+data:
+  browser: chrome
+  url: https://heyclore-flask.herokuapp.com/
+
+account:
+  email: test@test.test
+  password: testtest
